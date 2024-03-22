@@ -1,1 +1,2 @@
 # Leetcode-problems
+Are you passionate about coding? Do you want to enhance your coding skills? If yes, then let's solve some coding problems and improve our skills by using LeetCode. LeetCode is an excellent platform that offers easy, medium, and hard problems to solve for those who want to improve their coding skills. This repository contains LeetCode problems and their solutions. Let's dive in and explore!
