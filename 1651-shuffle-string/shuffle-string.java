@@ -4,11 +4,7 @@ class Solution {
         for(int i=0;i<s.length();i++){
             arr[indices[i]] = s.charAt(i);
         }
-        String r ="";
-        for(char i : arr){
-            r+=i;
-        }
-        return r;
-        
+        //return String.valueOf(arr);
+        return new String(arr);
     }
 }
